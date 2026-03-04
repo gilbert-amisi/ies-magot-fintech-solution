@@ -1,0 +1,50 @@
+{
+  "name": "magot",
+  "version": "0.0.1",
+  "description": "VSLA Wallet and indicators",
+  "productName": "magot",
+  "author": "IES IC4D",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "apexcharts": "^3.41.0",
+    "axios": "^1.6.7",
+    "cordova-plugin-advanced-geolocation": "^1.6.2",
+    "core-js": "^3.6.5",
+    "html2pdf.js": "^0.10.1",
+    "quasar": "^1.0.0",
+    "vue": "^2.7.16",
+    "vue-apexcharts": "^1.6.2",
+    "vue-html-to-paper": "^1.4.5",
+    "vue-i18n": "^8.0.0",
+    "vue-otp-input": "^1.0.0",
+    "vue-router": "^2.8.1",
+    "vue-session": "^1.0.0",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.0.0"
+  },
+  "browserslist": [
+    "ie >= 11",
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
