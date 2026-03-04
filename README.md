@@ -48,6 +48,13 @@ The platform automates the calculation of key VSLA metrics:
 
 ---
 
+## 📸 App Preview
+
+| Web Dashboard | Mobile App Interface |
+|---|---|
+| ![Web Dashboard](./screenshots/ss-web-2.jpg) | ![Mobile App](./screenshots/ss-mobile-2.jpg) |
+
+---
 ## 📄 Intellectual Property
 
 **Copyright © 2024 Gilbert Amisi Lumona. All rights reserved.**
